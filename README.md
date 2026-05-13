@@ -2,7 +2,7 @@
 
 Autonomous line-following warehouse robot built using a Raspberry Pi 4B, QTR-MD-07RC IR sensor array, ultrasonic obstacle detection, and differential drive motor control. The robot follows predefined paths using calibrated infrared sensors and safely stops when obstacles are detected in front of it.
 
-> Full technical documentation available in: `Robot_Line_Follower_Documentation.pdf` :contentReference[oaicite:0]{index=0}
+> Full technical documentation available in: `Robot_Line_Follower_Documentation.pdf`
 
 ---
 
